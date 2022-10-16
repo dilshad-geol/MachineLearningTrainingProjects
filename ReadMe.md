@@ -6,7 +6,7 @@ There will be mini projects in the repository related to Machine learning proble
 ## **List of Projects**
 | Name of Project     | Date Added |
 | :---        |    :----:   |
-|       |       |
+|   01 - Bigmart Sales Prediction Regression Analysis    |  16-Oct-2022     |
 |   |     |
 
 
