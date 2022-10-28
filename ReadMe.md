@@ -9,10 +9,10 @@ There will be mini projects in the repository related to Machine learning proble
 |   01 - Bigmart Sales Prediction Regression Analysis    |  15-Oct-2022     |
 |  02 - Ukraine Russia War Twitter Sentiment Analysis |   16-Oct-2022  |
 |03 - Million Songs Dataset - Recommendation Engine| 24-Oct-2022 |
+|04 - Speech to Text - Simple Speech Recognition Project|28-Oct-2022|
 |||
 
 
 
-
-Author:\
+**Repo Author:**\
 Dilshad Raza
